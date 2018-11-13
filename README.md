@@ -2,7 +2,7 @@
 
 We are taking hello-angular-exp1 project as a base, and on top of that we are going to practice , how to create angular components and normal class and how to use those in angular project.  
 
-- To create a component use the following commands "ng g component <component-name>":  
+- To create a component use the following commands "ng g component component-name":  
 ```
 ng g component bio
 ```
